@@ -1,2 +1,4 @@
 # web-430
-DevOs
+DevOps
+Professor Krasso-Bellevue University
+Hector Leguillow-Bellevue University
